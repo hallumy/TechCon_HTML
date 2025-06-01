@@ -1,0 +1,3 @@
+## Building the Homepage for TechCon 2024 Conference Website
+
+The homepage is the main landing page for the TechCon 2024 conference website. It uses semantic HTML tags to ensure a well-structured and accessible layout. The page features a <header> containing the conference name in an <h1> and a <nav> menu linking to other key pages. The <main> section introduces the event with a descriptive paragraph and an embedded promotional video using the <video> tag, complete with controls and subtitles for accessibility. Finally, the <footer> provides clear and simple copyright information for the event and the current year.
