@@ -1,3 +1,19 @@
 ## Building the Homepage for TechCon 2024 Conference Website
 
 The homepage is the main landing page for the TechCon 2024 conference website. It uses semantic HTML tags to ensure a well-structured and accessible layout. The page features a <header> containing the conference name in an <h1> and a <nav> menu linking to other key pages. The <main> section introduces the event with a descriptive paragraph and an embedded promotional video using the <video> tag, complete with controls and subtitles for accessibility. Finally, the <footer> provides clear and simple copyright information for the event and the current year.
+
+## Creating the About Page for TechCon 2024 Conference Website
+
+The About page for TechCon 2024 introduces visitors to the conference’s origins, mission, and notable past speakers. It begins with a header featuring the page title and a consistent navigation menu to maintain a unified experience across the site. The main content is structured into three articles: the history of TechCon—tracing its evolution from a small gathering in 2010 to a dynamic global movement today; the mission—focused on connecting local and global tech communities, showcasing African innovation, and fostering responsible growth; and notable past speakers—highlighting leaders like Dr. Fei-Fei Li and Ms. Gwynne Shotwell who have shaped the tech landscape. The page includes engaging images with descriptive alt text, clear headings, and concise paragraphs to make the information accessible and compelling. A footer ensures the layout aligns with the homepage. Overall, the page effectively communicates TechCon’s rich heritage and vision for the future.
+
+## Designing the Schedule Page for TechCon 2024 Conference Website
+
+The Schedule page for TechCon 2024 is designed to present a clear and detailed timetable of the conference’s events, sessions, and speakers. It begins with a header section that includes the page title and a consistent navigation menu linking to the Home, About, Register, and Contact pages, ensuring easy navigation across the site. The main content uses a structured HTML <table> within a <main> tag, featuring headers with <th> tags and scope attributes to aid accessibility, along with rows of detailed session information using <td> tags. A succinct <caption> is included to describe the table’s purpose. The footer is consistent with the rest of the website, including copyright information, to maintain a cohesive look and feel throughout the site. Overall, this page aims to make the conference’s schedule accessible, user-friendly, and visually clear for all visitors.
+
+## Building the Register Page for TechCon 2024 Conference Website
+
+The register.html page for TechCon 2024 is designed as a user-friendly and accessible registration form. It features a clear header with the page title and navigation, a main section containing the registration form, and a consistent footer. The form itself collects essential attendee information including full name, email, and password (with confirmation), along with a checkbox for terms and conditions, all structured with appropriate labels and attributes for enhanced accessibility.
+
+##  Constructing the Contact Page for TechCon 2024 Conference Website
+
+The contact.html page for TechCon 2024 is designed to offer comprehensive contact options for attendees. It includes a standard header with an "Contact Us" title and a consistent navigation menu linking to Home, About, Schedule, and Register. The main content provides essential contact details, such as an official email address (mailto:email@example.com), and social media links that open in new tabs. For improved usability, the page embeds a responsive Google Map showing the conference venue's location. Attendees can also easily reach out using a "Contact Us" form, featuring fields for name, email, and a message, all submitted via a "Send 
